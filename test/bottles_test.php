@@ -11,7 +11,7 @@ class BottlesTest extends TestCase
 		$bottles = new Bottles();
 
 		$expected = <<<VERSE
-99 bottles of beer on the wall, 99 bottles of beer. 
+99 bottles of beer on the wall, 99 bottles of beer.
 Take one down and pass it around, 98 bottles of beer on the wall.
 VERSE;
 
@@ -35,7 +35,7 @@ VERSE;
 	public function test_verse_2()
 	{
 		$this->markTestSkipped();
-		
+
 		$bottles = new Bottles();
 
 		$expected = <<<VERSE
@@ -49,7 +49,7 @@ VERSE;
 	public function test_verse_1()
 	{
 		$this->markTestSkipped();
-		
+
 		$bottles = new Bottles();
 
 		$expected = <<<VERSE
@@ -63,7 +63,7 @@ VERSE;
 	public function test_verse_0()
 	{
 		$this->markTestSkipped();
-		
+
 		$bottles = new Bottles();
 
 		$expected = <<<VERSE
@@ -77,7 +77,7 @@ VERSE;
 	public function test_a_couple_verses()
 	{
 		$this->markTestSkipped();
-		
+
 		$bottles = new Bottles();
 
 		$expected = <<<VERSE
@@ -94,7 +94,7 @@ VERSE;
 	public function test_a_few_verses()
 	{
 		$this->markTestSkipped();
-		
+
 		$bottles = new Bottles();
 
 		$expected = <<<VERSE
@@ -114,7 +114,7 @@ VERSE;
 	public function test_the_whole_song()
 	{
 		$this->markTestSkipped();
-		
+
 		$bottles = new Bottles();
 
 		$expected = <<<SONG
