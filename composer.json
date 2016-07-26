@@ -1,0 +1,16 @@
+{
+    "name": "calebporzio/99bottles-php",
+    "description": "Code excercises from Sandi Metz's book \"99 bottles of OO\"",
+    "authors": [
+        {
+            "name": "Caleb Porzio",
+            "email": "caleb@fmtc.co"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^5.4"
+    },
+    "autoload": {
+        "psr-4": {"": "src/"}
+    }
+}
