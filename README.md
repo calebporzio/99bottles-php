@@ -2,6 +2,8 @@
 
 Code excersises from Sandi Metz's "99 bottles of OO" adapted to php.
 
+referenced from: [https://github.com/sandimetz/99bottles](https://github.com/sandimetz/99bottles)
+
 ---
 
 Instructions: (run these commands)
