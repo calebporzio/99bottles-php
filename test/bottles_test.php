@@ -88,7 +88,7 @@ Take one down and pass it around, 98 bottles of beer on the wall.
 Take one down and pass it around, 97 bottles of beer on the wall.
 VERSE;
 
-		$this->assertEquals($expected, $bottles->verse(99, 98));
+		$this->assertEquals($expected, $bottles->verses(99, 98));
 	}
 
 	public function test_a_few_verses()
@@ -108,7 +108,7 @@ No more bottles of beer on the wall, no more bottles of beer.
 Go to the store and buy some more, 99 bottles of beer on the wall.
 VERSE;
 
-		$this->assertEquals($expected, $bottles->verse(2, 0));
+		$this->assertEquals($expected, $bottles->verses(2, 0));
 	}
 
 	public function test_the_whole_song()
