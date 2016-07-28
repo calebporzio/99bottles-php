@@ -13,7 +13,7 @@ $ phpunit test/bottles_test.php
 ```
 
 Chapters:
-- [Exercise](https://github.com/calebporzio/99bottles-php/tree/excercise)
+- [Exercise](https://github.com/calebporzio/99bottles-php/tree/exercise)
 - [Chapter 1](https://github.com/calebporzio/99bottles-php/tree/chapter-1)
 - Chapter 2 (comming soon)
 - Chapter 3 (coming soon)
