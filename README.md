@@ -11,3 +11,10 @@ Instructions: (run these commands)
 $ composer install
 $ phpunit test/bottles_test.php
 ```
+
+Chapters:
+- [Exercise](https://github.com/calebporzio/99bottles-php/tree/excercise)
+- [Chapter 1](https://github.com/calebporzio/99bottles-php/tree/chapter-1)
+- Chapter 2 (comming soon)
+- Chapter 3 (coming soon)
+- Chapter 4 (coming soon)
